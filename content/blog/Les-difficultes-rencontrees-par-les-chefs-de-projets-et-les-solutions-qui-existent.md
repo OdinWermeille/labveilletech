@@ -1,11 +1,12 @@
 ---
 title: "Les difficultés rencontrées par les chefs de projets et les solutions qui existent"
 date: 2024-11-13T13:45:06+06:00
-image: images/blog/blog-post-04.jpg
+image: images/blog/blog-post-05.jpg
 feature_image: images/blog/blog-details-image.jpg
-author: Odin Wermeille
+author: Manale Karroum
 ---
 #### Type
+
 Article
 
 ### Résumé
@@ -17,4 +18,5 @@ L'article aborde les défis courants des chefs de projet, comme le manque de tem
 Les compétences utiles sont citées clairement et avec un niveau de détail bien adapté. Je peux donc voir immédiatement quelles compétences doivent être acquises ou affinées pour pouvoir poursuivre une carrière dans la gestion de projet.
 
 ### Source
+
 https://www.visual-planning.com/fr/blog-gestion-projets/les-difficultes-rencontrees-par-les-chefs-de-projets-et-les-solutions-qui-existent
