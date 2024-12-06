@@ -2,7 +2,6 @@
 title: "The Squid of Despair"
 date: 2024-12-05T13:36:07+06:00
 image: images/blog/blog-post-02.jpg
-feature_image: images/blog/blog-details-image.jpg
 author: Peter Taylor
 ---
 #### Type

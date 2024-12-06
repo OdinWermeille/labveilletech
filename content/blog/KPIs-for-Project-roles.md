@@ -2,7 +2,6 @@
 title: "KPIs for Project roles"
 date: 2024-12-05T13:45:00+06:00
 image: images/blog/blog-post-03.jpg
-feature_image: images/blog/blog-details-image.jpg
 author: Elizabeth Harrin
 ---
 #### Type

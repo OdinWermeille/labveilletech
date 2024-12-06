@@ -2,7 +2,6 @@
 title: "Système de veille"
 date: 2024-12-05T23:59:59+06:00
 image: images/blog/blog-post-01.jpg
-feature_image: images/blog/blog-details-image.jpg
 author: Odin Wermeille
 ---
 ### Choix de l'outil
